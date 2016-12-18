@@ -8,18 +8,18 @@ https://github.com/zardus/ctf-tools
 * pwntools: <br><b>https://github.com/Gallopsled/pwntools</b>
   
 * A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place:
-<br><b>https://github.com/apsdehal/awesome-ctf<br></b>
+<br><b>https://github.com/apsdehal/awesome-ctf</b>
 
 * Pentesting/CTF sites:
-<br><b>https://www.hacking-lab.com/<br></b>
-<br><b>https://www.vulnhub.com/<br></b>
-<br><b>https://www.hackthissite.org/<br><b>
-<br><b>http://www.thehonz.com/<br></b>
-<br><b>https://ringzer0team.com/<br></b>
-<br><b>https://www.reddit.com/r/AskNetsec<br></b>
-<br><b>https://www.pentestit.ru/ (russian)<br></b>
-<br><b>https://backdoor.sdslabs.co/<br></b>
-<br><b>http://ctfs.me/<br></b>
+<br><b>https://www.hacking-lab.com/</b>
+<br><b>https://www.vulnhub.com</b>
+<br><b>https://www.hackthissite.org/<b>
+<br><b>http://www.thehonz.com/</b>
+<br><b>https://ringzer0team.com/</b>
+<br><b>https://www.reddit.com/r/AskNetsec</b>
+<br><b>https://www.pentestit.ru/ (russian)</b>
+<br><b>https://backdoor.sdslabs.co/</b>
+<br><b>http://ctfs.me/</b>
 <br><b>https://exploit-exercises.com/<br></b>
 <br><b>http://overthewire.org/wargames/<br></b>
 <br><b>http://smashthestack.org/<br></b>
