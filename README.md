@@ -11,6 +11,9 @@ https://github.com/zardus/ctf-tools
 <br><b>https://github.com/apsdehal/awesome-ctf</b>
 
 * Pentesting/CTF sites:
+<br><b>http://pwnable.kr/ (one of the more popular recent wargamming sets of challenges)</b>
+<br><b>https://www.vulnhub.com/ (vulnerable machines you can practice or for your pentest laboratory)</b>
+<br><b>http://captf.com/practice-ctf/ (many links to good wargames/ctfs)</b>
 <br><b>https://www.hacking-lab.com/</b>
 <br><b>https://www.vulnhub.com</b>
 <br><b>https://www.hackthissite.org/<b>
@@ -23,7 +26,6 @@ https://github.com/zardus/ctf-tools
 <br><b>https://exploit-exercises.com/</b>
 <br><b>http://overthewire.org/wargames/</b>
 <br><b>http://smashthestack.org/</b>
-<br><b>https://www.vulnhub.com/</b>
 <br><b>https://www.wechall.net/</b>
 <br><b>http://www.root-me.org</b>
 <br><b>http://www.pentesterlab.com</b>
