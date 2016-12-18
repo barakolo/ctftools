@@ -2,47 +2,44 @@
 
 The must ones:
 * zardus ctf tools (Some setup scripts for security research tools):
+<b><br>
 https://github.com/zardus/ctf-tools
-
-* pwntools:
-https://github.com/Gallopsled/pwntools
+</b>
+* pwntools: <br><b>https://github.com/Gallopsled/pwntools</b>
   
 * A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place:
-https://github.com/apsdehal/awesome-ctf
-    
+<br><b>https://github.com/apsdehal/awesome-ctf<br></b>
 
 * Pentesting/CTF sites:
-https://www.hacking-lab.com/
-https://www.vulnhub.com/
-https://www.hackthissite.org/
-http://www.thehonz.com/
-https://ringzer0team.com/
-https://www.reddit.com/r/AskNetsec
-https://www.pentestit.ru/ (russian)
-https://backdoor.sdslabs.co/
-http://ctfs.me/
-https://exploit-exercises.com/
-http://overthewire.org/wargames/
-http://smashthestack.org/
-https://www.vulnhub.com/
-https://www.wechall.net/
-https://github.com/apsdehal/awesome-ctf
-http://www.root-me.org
-http://www.pentesterlab.com
-http://www.picoctf.com
-http://www.ctftime.org
-http://wav-lab.com
-https://w3challs.com/
-https://challenges.ka0labs.org/
-http://ctf365.com
-https://github.com/ctfs
-http://mitrecyberacademy.org/competitions/
-http://captf.com/practice-ctf/
-https://trailofbits.github.io/ctf/ctf.html
-https://captf.com/practice-ctf/
-
+<br><b>https://www.hacking-lab.com/<br></b>
+<br><b>https://www.vulnhub.com/<br></b>
+<br><b>https://www.hackthissite.org/<br><b>
+<br><b>http://www.thehonz.com/<br></b>
+<br><b>https://ringzer0team.com/<br></b>
+<br><b>https://www.reddit.com/r/AskNetsec<br></b>
+<br><b>https://www.pentestit.ru/ (russian)<br></b>
+<br><b>https://backdoor.sdslabs.co/<br></b>
+<br><b>http://ctfs.me/<br></b>
+<br><b>https://exploit-exercises.com/<br></b>
+<br><b>http://overthewire.org/wargames/<br></b>
+<br><b>http://smashthestack.org/<br></b>
+<br><b>https://www.vulnhub.com/<br></b>
+<br><b>https://www.wechall.net/<br></b>
+<br><b>http://www.root-me.org<br></b>
+<br><b>http://www.pentesterlab.com<br></b>
+<br><b>http://www.picoctf.com<br></b>
+<br><b>http://www.ctftime.org<br></b>
+<br><b>http://wav-lab.com<br></b>
+<br><b>https://w3challs.com/<br></b>
+<br><b>https://challenges.ka0labs.org/<br></b>
+<br><b>http://ctf365.com<br></b>
+<br><b>https://github.com/ctfs<br></b>
+<br><b>http://mitrecyberacademy.org/competitions/<br></b>
+<br><b>http://captf.com/practice-ctf/<br></b>
+<br><b>https://trailofbits.github.io/ctf/ctf.html<br></b>
+<br><b>https://captf.com/practice-ctf/<br></b>
 
 * ctfs write-ups repositories:
-https://github.com/ctfs/write-ups-2014
+<br><b>https://github.com/ctfs/write-ups-2014<br></b>
 
 
