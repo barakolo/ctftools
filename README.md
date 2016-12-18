@@ -11,37 +11,36 @@ https://github.com/zardus/ctf-tools
 <br><b>https://github.com/apsdehal/awesome-ctf</b>
 
 Pentesting/CTF sites:
-<br><b>http://pwnable.kr/ (one of the more popular recent wargamming sets of challenges)</b>
-<br><b>https://www.vulnhub.com/ (vulnerable machines you can practice or for your pentest laboratory)</b>
-<br><b>http://captf.com/practice-ctf/ (many links to good wargames/ctfs)</b>
-<br><b>https://www.hacking-lab.com/</b>
-<br><b>https://www.vulnhub.com</b>
-<br><b>https://www.hackthissite.org/<b>
-<br><b>http://www.thehonz.com/</b>
-<br><b>https://ringzer0team.com/</b>
-<br><b>https://www.reddit.com/r/AskNetsec</b>
-<br><b>https://www.pentestit.ru/ (russian)</b>
-<br><b>https://backdoor.sdslabs.co/</b>
-<br><b>http://ctfs.me/</b>
-<br><b>https://exploit-exercises.com/</b>
-<br><b>http://overthewire.org/wargames/</b>
-<br><b>http://smashthestack.org/</b>
-<br><b>https://www.wechall.net/</b>
-<br><b>http://www.root-me.org</b>
-<br><b>http://www.pentesterlab.com</b>
-<br><b>http://www.picoctf.com</b>
-<br><b>http://www.ctftime.org</b>
-<br><b>http://wav-lab.com</b>
-<br><b>https://w3challs.com/</b>
-<br><b>https://challenges.ka0labs.org/</b>
-<br><b>http://ctf365.com</b>
-<br><b>https://github.com/ctfs</b>
-<br><b>http://mitrecyberacademy.org/competitions/</b>
-<br><b>http://captf.com/practice-ctf/</b>
-<br><b>https://trailofbits.github.io/ctf/ctf.html</b>
-<br><b>https://captf.com/practice-ctf/</b>
+* <b>http://pwnable.kr/ (one of the more popular recent wargamming sets of challenges)</b>
+* <b>https://www.vulnhub.com/ (vulnerable machines you can practice or for your pentest laboratory)</b>
+* <b>http://captf.com/practice-ctf/ (many links to good wargames/ctfs)</b>
+* <b>https://github.com/ctfs/ (ctfs write-ups repositories)</b>
+* <b>https://www.hacking-lab.com/</b>
+* <b>https://www.vulnhub.com</b>
+* <b>https://www.hackthissite.org/<b>
+* <b>http://www.thehonz.com/</b>
+* <b>https://ringzer0team.com/</b>
+* <b>https://www.reddit.com/r/AskNetsec</b>
+* <b>https://www.pentestit.ru/ (russian)</b>
+* <b>https://backdoor.sdslabs.co/</b>
+* <b>http://ctfs.me/</b>
+* <b>https://exploit-exercises.com/</b>
+* <b>http://overthewire.org/wargames/</b>
+* <b>http://smashthestack.org/</b>
+* <b>https://www.wechall.net/</b>
+* <b>http://www.root-me.org</b>
+* <b>http://www.pentesterlab.com</b>
+* <b>http://www.picoctf.com</b>
+* <b>http://www.ctftime.org</b>
+* <b>http://wav-lab.com</b>
+* <b>https://w3challs.com/</b>
+* <b>https://challenges.ka0labs.org/</b>
+* <b>http://ctf365.com</b>
+* <b>https://github.com/ctfs</b>
+* <b>http://mitrecyberacademy.org/competitions/</b>
+* <b>http://captf.com/practice-ctf/</b>
+* <b>https://trailofbits.github.io/ctf/ctf.html</b>
+* <b>https://captf.com/practice-ctf/</b>
 
-* ctfs write-ups repositories:
-<br><b>https://github.com/ctfs/write-ups-2014</b>
 
 
