@@ -10,7 +10,7 @@ https://github.com/zardus/ctf-tools
 * A curated list of Capture The Flag (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place:
 <br><b>https://github.com/apsdehal/awesome-ctf</b>
 
-* Pentesting/CTF sites:
+Pentesting/CTF sites:
 <br><b>http://pwnable.kr/ (one of the more popular recent wargamming sets of challenges)</b>
 <br><b>https://www.vulnhub.com/ (vulnerable machines you can practice or for your pentest laboratory)</b>
 <br><b>http://captf.com/practice-ctf/ (many links to good wargames/ctfs)</b>
