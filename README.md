@@ -1,8 +1,6 @@
 # ctftools
-some generic ctf tools
 
-* The must ones: *
-
+The must ones:
 * zardus ctf tools (Some setup scripts for security research tools):
 https://github.com/zardus/ctf-tools
 
