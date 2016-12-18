@@ -20,26 +20,26 @@ https://github.com/zardus/ctf-tools
 <br><b>https://www.pentestit.ru/ (russian)</b>
 <br><b>https://backdoor.sdslabs.co/</b>
 <br><b>http://ctfs.me/</b>
-<br><b>https://exploit-exercises.com/<br></b>
-<br><b>http://overthewire.org/wargames/<br></b>
-<br><b>http://smashthestack.org/<br></b>
-<br><b>https://www.vulnhub.com/<br></b>
-<br><b>https://www.wechall.net/<br></b>
-<br><b>http://www.root-me.org<br></b>
-<br><b>http://www.pentesterlab.com<br></b>
-<br><b>http://www.picoctf.com<br></b>
-<br><b>http://www.ctftime.org<br></b>
-<br><b>http://wav-lab.com<br></b>
-<br><b>https://w3challs.com/<br></b>
-<br><b>https://challenges.ka0labs.org/<br></b>
-<br><b>http://ctf365.com<br></b>
-<br><b>https://github.com/ctfs<br></b>
-<br><b>http://mitrecyberacademy.org/competitions/<br></b>
-<br><b>http://captf.com/practice-ctf/<br></b>
-<br><b>https://trailofbits.github.io/ctf/ctf.html<br></b>
-<br><b>https://captf.com/practice-ctf/<br></b>
+<br><b>https://exploit-exercises.com/</b>
+<br><b>http://overthewire.org/wargames/</b>
+<br><b>http://smashthestack.org/</b>
+<br><b>https://www.vulnhub.com/</b>
+<br><b>https://www.wechall.net/</b>
+<br><b>http://www.root-me.org</b>
+<br><b>http://www.pentesterlab.com</b>
+<br><b>http://www.picoctf.com</b>
+<br><b>http://www.ctftime.org</b>
+<br><b>http://wav-lab.com</b>
+<br><b>https://w3challs.com/</b>
+<br><b>https://challenges.ka0labs.org/</b>
+<br><b>http://ctf365.com</b>
+<br><b>https://github.com/ctfs</b>
+<br><b>http://mitrecyberacademy.org/competitions/</b>
+<br><b>http://captf.com/practice-ctf/</b>
+<br><b>https://trailofbits.github.io/ctf/ctf.html</b>
+<br><b>https://captf.com/practice-ctf/</b>
 
 * ctfs write-ups repositories:
-<br><b>https://github.com/ctfs/write-ups-2014<br></b>
+<br><b>https://github.com/ctfs/write-ups-2014</b>
 
 
